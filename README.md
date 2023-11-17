@@ -16,13 +16,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Auteur:
-  Sanne 't Hooft (vervangen door jouw naam)
+ Liorah Nunes Nabarro (vervangen door jouw naam)
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+  Blauw (kies uit zwart, rood óf blauw)
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Responsive (kies uit responsive óf surface plane)
  
 </details>
 
@@ -36,15 +36,21 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  https://www.nike.com/nl/ 
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Nike homepage   
+  <img src="readme-images/home1.jpg" width="375px" alt="Nike homepage">
+  <img src="readme-images/home2.jpg" width="375px" alt="Nike homepage">
+  <img src="readme-images/home3.jpg" width="375px" alt="Nike homepage">
+  <img src="readme-images/home4.jpg" width="375px" alt="Nike homepage">
+  <img src="readme-images/home5.jpg" width="375px" alt="Nike homepage">
+  <img src="readme-images/home6.jpg" width="375px" alt="Nike homepage">
+
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/scherm2.jpg" width="375px" alt="omschrijving van de pagina">
  
 </details>
 
